@@ -1,4 +1,4 @@
-# praktikum-sistem-informasi
+# install alma linux
 Menginstall alma linux
 Download terlebih dahulu alma linux.
 Kita buka virtual box dan masukan isonya.
